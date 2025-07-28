@@ -31,7 +31,6 @@ This project implements a complete MLOps pipeline for Linear Regression using th
 
 This repository was created entirely using the Windows PowerShell command line tool. Here are the exact steps followed:
 
-### Step 1: Create a Virtual Environment
 ```powershell
 python -m venv mlops_env
 mlops_env\Scripts\Activate.ps1
